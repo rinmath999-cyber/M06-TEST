@@ -1,0 +1,3 @@
+Nim=251130560
+Nama= Rinaldy Camahou
+nopc= 36
